@@ -1,0 +1,5 @@
+Variable = es como un contenedor que tiene cosas para luego ser usado, ejemplo una cubeta de agua, la usas en el momento o esperas para usarla tarde, agua calentita
+String = como una cadena unidas todas(una cadena de texto que va entre comillas), en este caso podemos unir letras y formar palabras
+Funcion= relacion de elementos que ejecutaran una determinada accion, ejemplo funcion tomar agua, porque tienes sed por el <i class="fa fa-calculator
+decalracion = la ejecucion de una accion solicitada
+Balores boleanos = lenguaje maquina de ceros y unos, verdad no falso, avbierto o cerrado
